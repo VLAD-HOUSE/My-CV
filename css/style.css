@@ -1,0 +1,57 @@
+body {
+    background: url("../img/R +.jpg") no-repeat;
+    background-size: 100%
+}
+
+
+.card {
+    width:400px;
+    margin: 30px auto;
+    background-color:black;
+    padding: 10px;
+    box-shadow: 0 5px 10px #ffffff;
+}
+
+.img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title {
+    color: #d9b866;
+    font-size: 30px;
+    text-align:center;
+}
+
+.card-text {
+    color: #d9b866;
+
+}
+
+.cont{
+    color: #d9b866;
+    box-shadow: 0 5px 10px #ffffff;
+}
+
+.sub-title {
+    color: #d9b866;
+}
+li {
+    color: #d9b866;
+ }
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+}
+.my-site{
+    color: #d9b866;
+
+}
+
+footer {
+    text-align:center;
+
+}
