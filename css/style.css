@@ -1,6 +1,6 @@
 body {
     background: url("../img/R +.jpg") no-repeat;
-    background-size: 100%
+    background-size: cover;
 }
 
 
@@ -25,7 +25,9 @@ body {
     font-size: 30px;
     text-align:center;
 }
-
+.img:hover{
+    transform: scale(1.5) translateY(40px);
+}
 .card-text {
     color: #d9b866;
 
@@ -33,6 +35,10 @@ body {
 
 .cont{
     color: #d9b866;
+    text-decoration: none;
+}
+
+.cont:hover{
     box-shadow: 0 5px 10px #ffffff;
 }
 
@@ -53,5 +59,12 @@ li {
 
 footer {
     text-align:center;
-
 }
+
+.my-site{
+    text-decoration: none;
+}
+.my-site:hover{
+    box-shadow: 0 5px 10px #ffffff;
+}
+
